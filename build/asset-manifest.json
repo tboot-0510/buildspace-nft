@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cd6ed12.chunk.css",
-    "main.js": "/static/js/main.3b7cee86.chunk.js",
-    "main.js.map": "/static/js/main.3b7cee86.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6f89ddd1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6f89ddd1.js.map",
-    "static/js/2.68c264f8.chunk.js": "/static/js/2.68c264f8.chunk.js",
-    "static/js/2.68c264f8.chunk.js.map": "/static/js/2.68c264f8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9cd6ed12.chunk.css.map": "/static/css/main.9cd6ed12.chunk.css.map",
-    "static/js/2.68c264f8.chunk.js.LICENSE.txt": "/static/js/2.68c264f8.chunk.js.LICENSE.txt",
-    "static/media/opensea.5b5dcb52.png": "/static/media/opensea.5b5dcb52.png",
-    "static/media/twitter-logo.a8a75254.svg": "/static/media/twitter-logo.a8a75254.svg"
+    "main.css": "/buildspace-nft/static/css/main.9cd6ed12.chunk.css",
+    "main.js": "/buildspace-nft/static/js/main.3b7cee86.chunk.js",
+    "main.js.map": "/buildspace-nft/static/js/main.3b7cee86.chunk.js.map",
+    "runtime-main.js": "/buildspace-nft/static/js/runtime-main.d6a3b1d1.js",
+    "runtime-main.js.map": "/buildspace-nft/static/js/runtime-main.d6a3b1d1.js.map",
+    "static/js/2.68c264f8.chunk.js": "/buildspace-nft/static/js/2.68c264f8.chunk.js",
+    "static/js/2.68c264f8.chunk.js.map": "/buildspace-nft/static/js/2.68c264f8.chunk.js.map",
+    "index.html": "/buildspace-nft/index.html",
+    "static/css/main.9cd6ed12.chunk.css.map": "/buildspace-nft/static/css/main.9cd6ed12.chunk.css.map",
+    "static/js/2.68c264f8.chunk.js.LICENSE.txt": "/buildspace-nft/static/js/2.68c264f8.chunk.js.LICENSE.txt",
+    "static/media/opensea.5b5dcb52.png": "/buildspace-nft/static/media/opensea.5b5dcb52.png",
+    "static/media/twitter-logo.a8a75254.svg": "/buildspace-nft/static/media/twitter-logo.a8a75254.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f89ddd1.js",
+    "static/js/runtime-main.d6a3b1d1.js",
     "static/js/2.68c264f8.chunk.js",
     "static/css/main.9cd6ed12.chunk.css",
     "static/js/main.3b7cee86.chunk.js"

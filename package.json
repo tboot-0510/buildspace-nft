@@ -17,6 +17,7 @@
     "react-use": "^17.3.1",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://tboot-0510.github.io/buildspace-nft/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

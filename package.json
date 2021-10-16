@@ -1,4 +1,5 @@
 {
+  "homepage": "http://tboot-0510.github.io/buildspace-nft/",
   "name": "buildspace-nft",
   "version": "0.1.0",
   "private": true,
@@ -17,13 +18,12 @@
     "react-use": "^17.3.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://tboot-0510.github.io/buildspace-nft/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
